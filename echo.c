@@ -1,5 +1,5 @@
 /* echo.c - echo user input */
-/* [AUTHOR GOES HERE] */
+/* JULIEN LEE */
 /* Last updated: 3/28/22 */
 
 #include <stdio.h>
